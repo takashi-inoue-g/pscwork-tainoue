@@ -64,6 +64,18 @@ input:active {
   background: #5a5a5a;
 }
 
+.operator {
+  background: #87cefa;
+}
+
+.operator:hover{
+  background: #339cdd;
+}
+
+.operator:active{
+  background: #2c80b4;
+}
+
 /* 
 ↓ 仕様変更① ↓※CSS分からない人も上の処理を参考にやってください！
   演算子(operator)の背景色（background）を設定
